@@ -1,0 +1,9 @@
+/bin/
+##ignore this file##
+/target/
+
+ 
+
+.classpath
+.project
+.settings
