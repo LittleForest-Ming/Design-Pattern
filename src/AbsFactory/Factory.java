@@ -1,4 +1,5 @@
-package AbsFactory;
+
+
 public interface Factory {
 
     public Fridge createFridge();

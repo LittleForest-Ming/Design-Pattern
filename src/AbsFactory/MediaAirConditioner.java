@@ -1,4 +1,4 @@
-package AbsFactory;
+
 public class MediaAirConditioner implements AirConditioner {
 
  

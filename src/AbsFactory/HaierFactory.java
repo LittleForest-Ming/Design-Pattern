@@ -1,4 +1,4 @@
-package AbsFactory;
+
 public class HaierFactory implements Factory {
 
     public Fridge createFridge(){

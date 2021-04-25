@@ -1,4 +1,4 @@
-package AbsFactory;
+
 public class MediaFactory implements Factory {
 
     public Fridge createFridge(){

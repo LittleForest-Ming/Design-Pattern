@@ -1,4 +1,4 @@
-package AbsFactory;
+
 public class HaierAirConditioner implements AirConditioner {
 
 
